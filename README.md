@@ -32,7 +32,7 @@ My name is Aussadawut Ardrit 😎, a 3rd year student in Computer Engineering fr
 
 <h2 align="center">Current 42Bangkok Projects</h2>
 
-<p align=center>
+<div align=center>
 |  Rank  | Project name     | Status |
 | :----: | ---------------- | :----: |
 |   0    | Libft            |   ⭐   |
@@ -40,7 +40,7 @@ My name is Aussadawut Ardrit 😎, a 3rd year student in Computer Engineering fr
 |   1B   | ft_printf        |   💻   |
 |   1C   | Born2beRoot      |   💻   |
 | **2A** | **Exam_rank_02** |   🔒   |
-</p>
+</div>
 
 <p align=center>
 ⭐ = Mandatory part + Bonus part || ✅ = Only Mandatory part || 💻 = Still coding || 🔒 = Lock
