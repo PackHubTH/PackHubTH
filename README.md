@@ -22,18 +22,28 @@ My name is Aussadawut Ardrit 😎, a 3rd year student in Computer Engineering fr
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PackHubTH&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PackHubTH&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
+<p align=center>
+
 <img width="480px" src="https://github-readme-stats.vercel.app/api?username=PackHubTH&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=radical" alt="Pack | Stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PackHubTH&hide_border=true&layout=compact&theme=radical" alt="Pack | Top Languages" />
 
+</p>
+
 <h2 align="center">Current 42 Projects</h2>
 
-|  Rank  | Project name     | Status |
+⭐ = Mandatory part + Bonus part
+✅ = Only Mandatory part
+❌ = Help me pls
+💻 = Still coding
+🔒 = Lock
+| Rank | Project name | Status |
 | :----: | ---------------- | :----: |
-|   0    | Libft            |   ⭐   |
-|   1A   | get_next_line    |   ⭐   |
-|   1B   | ft_printf        |   💻   |
-| **2A** | **Exam_rank_02** |   🔒   |
+| 0 | Libft | ⭐ |
+| 1A | get_next_line | ⭐ |
+| 1B | ft_printf | 💻 |
+| 1C | Born2beRoot | 💻 |
+| **2A** | **Exam_rank_02** | 🔒 |
 
 <!--
 **PackHubTH/PackHubTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
