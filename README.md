@@ -7,9 +7,7 @@
 </div>
 
 <p align=center>
-
 My name is Aussadawut Ardrit 😎, a 3rd year student in Computer Engineering from King Mongkut's University of Technology Thonburi 💻. I'm interested in new technologies, web development, and cyber security 💪. And now, I'm currently studying at 42Bangkok 🐱
-
 </p>
 
 <h2 align="center">Technology Stack</h2>
