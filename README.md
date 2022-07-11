@@ -32,14 +32,15 @@ My name is Aussadawut Ardrit 😎, a 3rd year student in Computer Engineering fr
 
 <h2 align="center">Current 42 Projects</h2>
 
-|               Rank               | Project name             |      Status       |
-| :------------------------------: | ------------------------ | :---------------: | --------- |
-|                0                 | Libft                    |        ⭐         |
-|                1A                | get_next_line            |        ⭐         |
-|                1B                | ft_printf                |        💻         |
-|                1C                | Born2beRoot              |        💻         |
-|              **2A**              | **Exam_rank_02**         |        🔒         |
-| ⭐ = Mandatory part + Bonus part | ✅ = Only Mandatory part | 💻 = Still coding | 🔒 = Lock |
+|  Rank  | Project name     | Status |
+| :----: | ---------------- | :----: |
+|   0    | Libft            |   ⭐   |
+|   1A   | get_next_line    |   ⭐   |
+|   1B   | ft_printf        |   💻   |
+|   1C   | Born2beRoot      |   💻   |
+| **2A** | **Exam_rank_02** |   🔒   |
+
+⭐ = Mandatory part + Bonus part || ✅ = Only Mandatory part || 💻 = Still coding || 🔒 = Lock
 
 <!--
 **PackHubTH/PackHubTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
