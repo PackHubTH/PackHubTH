@@ -30,7 +30,9 @@ My name is Aussadawut Ardrit 😎, a 3rd year student in Computer Engineering fr
 
 </p>
 
-<h2 align="center">Current 42Bangkok Projects</h2>
+---
+
+Current 42Bangkok Projects
 
 |  Rank  | Project name     | Status |
 | :----: | ---------------- | :----: |
@@ -40,9 +42,8 @@ My name is Aussadawut Ardrit 😎, a 3rd year student in Computer Engineering fr
 |   1C   | Born2beRoot      |   💻   |
 | **2A** | **Exam_rank_02** |   🔒   |
 
-<p align=center>
 ⭐ = Mandatory part + Bonus part || ✅ = Only Mandatory part || 💻 = Still coding || 🔒 = Lock
-</p>
+
 <!--
 **PackHubTH/PackHubTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
