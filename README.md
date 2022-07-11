@@ -32,11 +32,7 @@ My name is Aussadawut Ardrit 😎, a 3rd year student in Computer Engineering fr
 
 <h2 align="center">Current 42 Projects</h2>
 
-⭐ = Mandatory part + Bonus part
-✅ = Only Mandatory part
-❌ = Help me pls
-💻 = Still coding
-🔒 = Lock
+⭐ = Mandatory part + Bonus part | ✅ = Only Mandatory part | 💻 = Still coding | 🔒 = Lock
 | Rank | Project name | Status |
 | :----: | ---------------- | :----: |
 | 0 | Libft | ⭐ |
