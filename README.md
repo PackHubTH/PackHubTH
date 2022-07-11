@@ -30,7 +30,7 @@ My name is Aussadawut Ardrit 😎, a 3rd year student in Computer Engineering fr
 
 </p>
 
-<h2 align="center">Current 42 Projects</h2>
+<h2 align="center">Current 42Bangkok Projects</h2>
 
 |  Rank  | Project name     | Status |
 | :----: | ---------------- | :----: |
